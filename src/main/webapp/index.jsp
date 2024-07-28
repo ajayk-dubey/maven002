@@ -1,6 +1,6 @@
 <html>
 <body>
-    <h1 style ="color:red">Welcome to JaiShree Punjabi Dhabha (Food like Home) </h1>
+    <h1 style ="color:red"><i>Welcome to JaiShree Punjabi Dhabha (Food like Home)<i> </h1>
 	<h1> <font color="Orange">Our Specality Item is Gobi Ke Paranthe </font> </h1>
 	<h2>We only serve vegeterian food </h2>
     <h3>We are happy to server you all type of multicultural food</h3>
